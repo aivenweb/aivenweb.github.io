@@ -5362,3 +5362,10 @@ Author: lineicons.com
   margin-bottom: 30px !important;
   font-size: 50px !important;
 }
+
+.title-item {
+    font-size: 25px;
+    font-weight: 600;
+    color: #051441;
+    margin-bottom: 20px;
+}
